@@ -4,7 +4,6 @@
   "description": "A melhor api pra você usar no seu bot de whatsapp",
   "main": "index.js",
   "type": "commonjs",
-
   "scripts": {
     "start": "node index.js"
   },
@@ -17,7 +16,7 @@
   "author": "pedrozz",
   "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys" : "^6.7.2",
+    "@whiskeysockets/baileys": "^6.7.2",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "awesome-phonenumber": "^5.9.0",
@@ -53,7 +52,7 @@
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
     "remove.bg": "^1.3.0",
-    "rsnchat": "^3.0.10",  
+    "rsnchat": "^3.0.10",
     "scrape-primbon": "^1.1.0",
     "serve-favicon": "^2.5.0",
     "util": "^0.12.4",
@@ -69,3 +68,4 @@
   "bugs": {},
   "homepage": " "
 }
+  
