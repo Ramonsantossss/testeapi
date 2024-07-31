@@ -37,11 +37,11 @@ const color = (text, color) => { return !color ? chalk.green(text) : chalk.keywo
 
 const config = JSON.parse(fs.readFileSync('./dono/config.json'));
 var {prefix, botName, fotomenu, numeroDono ,dono1, dono2, dono3, donoName, emoji, bannerName, linkp, criador, porta, wallpaperLink} = require('./dono/config.json')
-const usuariosAutorizados = ["pedrozz", "ritinha12", "Viruss"];
-var keyAdm = ["pedrozz1"];
-const adminList = ["pedrozz", "Ritinh4", "Viruss"];
-bronxyKey = `pedrozz_Mods` 
-bronxyKey2 = `tiomaker8930`
+const usuariosAutorizados = ["Redzin", "Kai", "Viruss"];
+var keyAdm = ["Redzin1"];
+const adminList = ["Redzin", "Ritinh4", "Viruss"];
+bronxyKey = `Redziny` 
+bronxyKey2 = `Redzinyz`
     
 //===============================================//
 
