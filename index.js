@@ -39,7 +39,7 @@ const config = JSON.parse(fs.readFileSync('./dono/config.json'));
 var {prefix, botName, fotomenu, numeroDono ,dono1, dono2, dono3, donoName, emoji, bannerName, linkp, criador, porta, wallpaperLink} = require('./dono/config.json')
 const usuariosAutorizados = ["Redzin", "Kai", "Viruss"];
 var keyAdm = ["Redzin1"];
-const adminList = ["Redzin", "Ritinh4", "Viruss"];
+const adminList = ["Redzin", "Kai", "Viruss"];
 bronxyKey = `Redziny` 
 bronxyKey2 = `Redzinyz`
     
